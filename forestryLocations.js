@@ -113,7 +113,7 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Nemus s": {x:1383, y:3274, z:0, qt:"Pendant of Ates (6, Nemus Retreat) > Southwest of Fairy Ring - AIS > Quetzal (Quetzacalli Gorge), follow Western Mountain Guide then run South", prio:1},
   "Tlati ne": {x:1365, y:3139, z:0, qt:"Pendant of Ates (5, Kastori) North across bridge then East > Quetzal (Tal Teklan) run North then far East", prio:3},
   "Tlati n": {x:1324, y:3171, z:0, qt:"Pendant of Ates (5, Kastori) run North across bridge > Quetzal (Tal Teklan) run North then East", prio:3},
-  "Ralos Magics": {x:1398, y:3170, z:0, qt:"Quetzal (Cam Torum) run South off mountain then far Northwest", prio:3}
+  "Ralos Magics": {x:1398, y:3170, z:0, qt:"Quetzal (Cam Torum) run South off mountain then far Northwest", prio:3},
   "test location": {x:9999, y:9999, z:0, qt:"Bassland (XXX) run South off mountain then far Northwest", prio:3}
   /*
   Always Use Format:
