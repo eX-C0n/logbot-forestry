@@ -99,6 +99,7 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Mist Maple/Yew": {x:1380, y:2876, z:0, qt:"Quetzal > Aldarin POH > CKQ Fairy Ring", prio:2},
   /*
   Always Use Format:
-     "NAME": {x:x_coord, y:y_coord, z:0, qt:Quick_Tele, prio:1-4(where 1 is high priority)},
+     "NAME": {x:x_coord, y:y_coord, z:0, qt:Quick_Tele, prio:1, link:'[Location](<https://LINK.com/image.png>)'},
   */
+  // IN THE LINK ENSURE < > remain! This prevents the bot from embedding the image in the discord message
 }
