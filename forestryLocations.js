@@ -5,7 +5,7 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Woodland NW": {x:1531, y:3475, z:0, qt:"Rada woodland north/west", prio:3},
   "Rellekka SW": {x:2606, y:3627, z:0, qt:"Rellekka POH > Enchanted lyre 1", prio:3},
   "Sinclair Mansion": {x:2720, y:3551, z:0, qt:"Fairy ring CJR > Music cape", prio:2},
-  "Catherby": {x:2791, y:3449, z:0, qt:"Camelot teleport south east", prio:3},
+  "Catherby": {x:2791, y:3449, z:0, qt:"Catherby teleport > Camelot teleport south east", prio:3},
   "Ardy Monastry": {x:2620, y:3201, z:0, qt:"Ardougne cloak", prio:3},
   "Rimm SE": {x:2971, y:3202, z:0, qt:"Rim POH south east", prio:3},
   "Relekka SW": {x:2596, y:3634, z:0, qt:"Frem POH west > Lyre Relekka west", prio:3},
@@ -78,7 +78,7 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Yak": { x: 2322, y: 3789, z: 0, qt: "Enchanted Lyre 3 + Elite Fremennik diary", prio: 1, link:'[Location](<https://i.postimg.cc/XqL7Y0KJ/Yak.png>)' },
   "North Yak": {x:2320, y:3816, z:0, qt:"Enchanted Lyre(i) Neitiznot",  prio: 2 },
   "Barb": { x: 2519, y: 3568, z: 0, qt: "Games Necklace 5", prio: 2 },
-  "Souls": { x: 2189, y: 2991, z: 0, qt: "Fairy Ring BJP", prio: 2, link:'[Location](<https://media.discordapp.net/attachments/1361239977152741537/1361258001662738452/Souls.png?ex=6842a7ce&is=6841564e&hm=dba5f47691e24c3ad6cd6526222c5f5f420b937754a1cfb263517a9a09b15c60&=&format=webp&quality=lossless>)' },
+  "Souls": { x: 2189, y: 2991, z: 0, qt: "Fairy Ring BJP", prio: 2 },
   "Corsair": { x: 2475, y: 2887, z: 0, qt: "Spirit Tree 5", prio: 3 },
   "Nieve": { x: 2433, y: 3423, z: 0, qt: "Slayer Ring 1 > Diary Cape F > Spirit Tree 2", prio: 2 },
   "Se gnome": { x: 2490, y: 3407, z: 0, qt: "Slayer Ring 1 > Diary Cape F > Spirit Tree 2", prio: 3 },
@@ -97,9 +97,25 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Nald Yew": {x:1412, y:2993, z:0, qt:"Pendant of Ates > Aldarin POH > CKQ Fairy Ring", prio:2},
   "Nwald Magic": {x:1323, y:2974, z:0, qt:"CKQ Fairy Ring > Pendant of Ates > Aldarin POH", prio:2},
   "Mist Maple/Yew": {x:1380, y:2876, z:0, qt:"Quetzal > Aldarin POH > CKQ Fairy Ring", prio:2},
+  "Vale": {x:1412, y:3366, z:0, qt:"Quetzal (Auburnvale) > Northwest of Fairy Ring - AIS, at the Quetz", prio:3},
+  "Vale e": {x:1442, y:3355, z:0, qt:"Quetzal (Auburnvale) run East > North of Fairy Ring - AIS", prio:3},
+  "Vale n": {x:1388, y:3383, z:0, qt:"Quetzal (Auburnvale) run North > Northwest of Fairy Ring - AIS, North of Quetz", prio:3},
+  "Vale s": {x:1400, y:3337, z:0, qt:"Quetzal (Auburnvale) run South > Northwest of Fairy Ring - AIS, South of Quetz", prio:2},
+  "Vale w": {x:1367, y:3355, z:0, qt:"Quetzal (Auburnvale) run West > Northwest of Fairy Ring - AIS, West of Quetz", prio:2},
+  "Teklan": {x:1246, y:3076, z:0, qt:"Quetzal (Tal Teklan) run East then South > Pendant of Ates (5, Kastori) run West", prio:3},
+  "Kastori": {x:1327, y:3026, z:0, qt:"Quetzal (Kastori) > Pendant of Ates (5, Kastori) run sw", prio:3},
+  "Kastori n": {x:1328, y:3065, z:0, qt:"North of Quetzal (Kastori) > Pendant of Ates (5, Kastori) run sw", prio:3},
+  "Kastori w": {x:1261, y:3003, z:0, qt:"West of Quetzal (Kastori) > Pendant of Ates (5, Kastori) run far sw", prio:3},
+  "Ais e": {x1455, y:3314, z:0, qt:"East of Fairy Ring - AIS > Southeast of Quetzal (Auburnvale) across bridge", prio:2},
+  "Ais sw": {x:1409, y:3304, z:0, qt:"Southwest of Fairy Ring - AIS > Pendant of Ates (6,Nemus) run East across bridge", prio:3},
+  "Nemus": {x:1367, y:3309, z:0, qt:"Pendant of Ates (6, Nemus Retreat) run North > Quetzal (Quetzacalli Gorge), follow Western Mountain Guide > West of Fairy Ring - AIS", prio:1},
+  "Nemus nw": {x:1337, y:3340, z:0, qt:"Pendant of Ates (6, Nemus Retreat) run North > Quetzal (Quetzacalli Gorge) follow Western Mountain Guide then run Northwest", prio:3},
+  "Nemus s": {x:1383, y:3274, z:0, qt:"Pendant of Ates (6, Nemus Retreat) > Southwest of Fairy Ring - AIS > Quetzal (Quetzacalli Gorge), follow Western Mountain Guide then run South", prio:1},
+  "Tlati ne": {x:1365, y:3139, z:0, qt:"Pendant of Ates (5, Kastori) North across bridge then East > Quetzal (Tal Teklan) run North then far East", prio:3},
+  "Tlati n": {x:1324, y:3171, z:0, qt:"Pendant of Ates (5, Kastori) run North across bridge > Quetzal (Tal Teklan) run North then East", prio:3},
+  "Ralos Magics": {x:1398, y:3170, z:0, qt:"Quetzal (Cam Torum) run South off mountain then far Northwest", prio:3}
   /*
   Always Use Format:
-     "NAME": {x:x_coord, y:y_coord, z:0, qt:Quick_Tele, prio:1, link:'[Location](<https://LINK.com/image.png>)'},
+     "NAME": {x:x_coord, y:y_coord, z:0, qt:Quick_Tele, prio:1-4(where 1 is high priority)},
   */
-  // IN THE LINK ENSURE < > remain! This prevents the bot from embedding the image in the discord message
 }
