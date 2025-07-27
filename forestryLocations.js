@@ -106,7 +106,7 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Kastori": {x:1327, y:3026, z:0, qt:"Quetzal (Kastori) > Pendant of Ates (5, Kastori) run sw", prio:3},
   "Kastori n": {x:1328, y:3065, z:0, qt:"North of Quetzal (Kastori) > Pendant of Ates (5, Kastori) run sw", prio:3},
   "Kastori w": {x:1261, y:3003, z:0, qt:"West of Quetzal (Kastori) > Pendant of Ates (5, Kastori) run far sw", prio:3},
-  "Ais e": {x1455, y:3314, z:0, qt:"East of Fairy Ring - AIS > Southeast of Quetzal (Auburnvale) across bridge", prio:2},
+  "Ais e": {x:1455, y:3314, z:0, qt:"East of Fairy Ring - AIS > Southeast of Quetzal (Auburnvale) across bridge", prio:2},
   "Ais sw": {x:1409, y:3304, z:0, qt:"Southwest of Fairy Ring - AIS > Pendant of Ates (6,Nemus) run East across bridge", prio:3},
   "Nemus": {x:1367, y:3309, z:0, qt:"Pendant of Ates (6, Nemus Retreat) run North > Quetzal (Quetzacalli Gorge), follow Western Mountain Guide > West of Fairy Ring - AIS", prio:1},
   "Nemus nw": {x:1337, y:3340, z:0, qt:"Pendant of Ates (6, Nemus Retreat) run North > Quetzal (Quetzacalli Gorge) follow Western Mountain Guide then run Northwest", prio:3},
