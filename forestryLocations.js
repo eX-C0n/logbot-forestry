@@ -97,7 +97,7 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Nald Yew": {x:1412, y:2993, z:0, qt:"Pendant of Ates > Aldarin POH > CKQ Fairy Ring", prio:2},
   "Nwald Magic": {x:1323, y:2974, z:0, qt:"CKQ Fairy Ring > Pendant of Ates > Aldarin POH", prio:2},
   "Mist Maple/Yew": {x:1380, y:2876, z:0, qt:"Quetzal > Aldarin POH > CKQ Fairy Ring", prio:2},
-  "Vale": {x:1412, y:3366, z:0, qt:"Quetzal (Auburnvale) > Northwest of Fairy Ring - AIS, at the Quetz", prio:3},
+  "Vale": {x:1412, y:3366, z:0, qt:"Quetzal (Auburnvale) > Northwest of Fairy Ring - AIS, at the Quetz.", prio:3},
   "Vale e": {x:1442, y:3355, z:0, qt:"Quetzal (Auburnvale) run East > North of Fairy Ring - AIS", prio:3},
   "Vale n": {x:1388, y:3383, z:0, qt:"Quetzal (Auburnvale) run North > Northwest of Fairy Ring - AIS, North of Quetz", prio:3},
   "Vale s": {x:1400, y:3337, z:0, qt:"Quetzal (Auburnvale) run South > Northwest of Fairy Ring - AIS, South of Quetz", prio:2},
