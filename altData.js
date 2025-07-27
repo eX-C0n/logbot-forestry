@@ -18,7 +18,7 @@ module.exports.altArray = [
         {main: `kreeq`, alts: [`kreeq alt 1`,`kreeq alt 2`,`kreeq alt 3`,`kreeq alt 4`,`kreeq alt 5`,`kreeq alt 6`,`kreeq alt 7`,`kreeq alt 8`,`kreeq alt 9`]},
         {main: `MableLake`, alts: [`LoadedSwing`,`Creedle`,`FinalBossCEO`]},
         {main: `MapsquareBob`, alts: [`Bobstre`, ` WhyisBob`]},
-        {main: `MasterPoke`, alts: [`Fe Killaman`],`Korosen sei`},
+        {main: `MasterPoke`, alts: [`Fe Killaman`,`Korosen sei`]},
         {main: `MrsMangione`, alts: [`Jess or Cyan`]},
         {main: `Nagoya`, alts: [`bianca`,`gsec`,`69d you`,`robin 48`,`baller melo8`]},
         {main: `POWER TRIP`, alts: [`Gravey ard`]},
