@@ -107,15 +107,15 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Kastori n": {x:1328, y:3065, z:0, qt:"North of Quetzal (Kastori) > Pendant of Ates (5, Kastori) run sw", prio:3},
   "Kastori w": {x:1261, y:3003, z:0, qt:"West of Quetzal (Kastori) > Pendant of Ates (5, Kastori) run far sw", prio:3},
   "Ais e": {x:1455, y:3314, z:0, qt:"East of Fairy Ring - AIS > Southeast of Quetzal (Auburnvale) across bridge", prio:2},
-  "Ais sw": {x:1409, y:3304, z:0, qt:"Southwest of Fairy Ring - AIS > Pendant of Ates (6,Nemus) run East across bridge", prio:3},
-  "Nemus": {x:1367, y:3309, z:0, qt:"Pendant of Ates (6, Nemus Retreat) run North > Quetzal (Quetzacalli Gorge), follow Western Mountain Guide > West of Fairy Ring - AIS", prio:1},
+  "Ais sw": {x:1400, y:3305, z:0, qt:"Southwest of Fairy Ring - AIS > Pendant of Ates (6,Nemus) run East across bridge", prio:3},
+  "Nemus": {x:1371, y:3308, z:0, qt:"Pendant of Ates (6, Nemus Retreat) run North > Quetzal (Quetzacalli Gorge), follow Western Mountain Guide > West of Fairy Ring - AIS", prio:1},
   "Nemus nw": {x:1337, y:3340, z:0, qt:"Pendant of Ates (6, Nemus Retreat) run North > Quetzal (Quetzacalli Gorge) follow Western Mountain Guide then run Northwest", prio:3},
   "Nemus s": {x:1383, y:3274, z:0, qt:"Pendant of Ates (6, Nemus Retreat) > Southwest of Fairy Ring - AIS > Quetzal (Quetzacalli Gorge), follow Western Mountain Guide then run South", prio:1},
   "Tlati ne": {x:1365, y:3139, z:0, qt:"Pendant of Ates (5, Kastori) North across bridge then East > Quetzal (Tal Teklan) run North then far East", prio:3},
   "Tlati n": {x:1324, y:3171, z:0, qt:"Pendant of Ates (5, Kastori) run North across bridge > Quetzal (Tal Teklan) run North then East", prio:3},
   "Ralos Magics": {x:1398, y:3170, z:0, qt:"Quetzal (Cam Torum) run South off mountain then far Northwest", prio:3},
   "test location": {x:9999, y:9999, z:0, qt:"Bassland (XXX) run South off mountain then far Northwest", prio:3},
-  "Nemus e": {x:1392, y:3305, z:0, qt:"Pendant of Ates (6, Nemus Retreat) run East > Fairy ring - AIS run Southwest across bridge", prio:3},
+  "Nemus e": {x:1390, y:3305, z:0, qt:"Pendant of Ates (6, Nemus Retreat) run East > Fairy ring - AIS run Southwest across bridge", prio:3},
   "Nemus sw": {x:1349, y:3280, z:0, qt:"Pendant of Ates (6, Nemus Retreat) > Quetzal (Gorge) follow western Mountain Guide then run South", prio:3},
   /*
   Always Use Format:
