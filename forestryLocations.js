@@ -116,7 +116,7 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Ralos Magics": {x:1398, y:3170, z:0, qt:"Quetzal (Cam Torum) run South off mountain then far Northwest", prio:3},
   "Nemus e": {x:1390, y:3305, z:0, qt:"Pendant of Ates (6, Nemus Retreat) run East > Fairy ring - AIS run Southwest across bridge", prio:3},
   "Nemus sw": {x:1349, y:3280, z:0, qt:"Pendant of Ates (6, Nemus Retreat) > Quetzal (Gorge) follow western Mountain Guide then run South", prio:3},
-  "AJP": {x:1647, y:3007, z:0, qt:"Fairy ring AJP east", prio:4},
+  "AJP": {x:1647, y:3007, z:0, qt:"Fairy ring AJP", prio:4},
   /*
   Always Use Format:
      "NAME": {x:x_coord, y:y_coord, z:0, qt:Quick_Tele, prio:1-4(where 1 is high priority)},
