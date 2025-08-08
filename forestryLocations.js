@@ -115,7 +115,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 3249,
     y: 3201,
     qt: "Diary Cape B > Lumbridge tele",
-    prio: 2
+    prio: 3
   },
   "Mta e": {
     x: 3370,
@@ -145,7 +145,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 3208,
     y: 3503,
     qt: "Ring of Wealth 2 > Spirit Tree 4",
-    prio: 1,
+    prio: 2,
     link: '[Location](<https://i.postimg.cc/59gxvbv9/Ge.png>)'
   },
   "Ge water fountain": {
@@ -226,7 +226,8 @@ module.exports.PREDEFINEDLOCATIONS = {
     y: 3235,
     qt: "Diary Cape G > Glory 3",
     prio: 1,
-    link: '[Location](<https://i.postimg.cc/4dbXWTS5/Draynor-Willows-Oaks.png>)'
+    link: '[Location](<https://i.postimg.cc/4dbXWTS5/Draynor-Willows-Oaks.png>)',
+    ping: '1403407218161881138'
   },
   "Dray oak": {
     x: 3101,
@@ -271,7 +272,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Seers' Village tele",
     prio: 2,
     link: '[Location](<https://i.postimg.cc/L5QKW4Bz/Seers.png>)',
-    ping: '1403282419863388172'
+    ping: '1403407212646502463'
   },
   "Sinclair Mansion": {
     x: 2745,
@@ -285,7 +286,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Seers' Village tele > Diary Cape 5",
     prio: 1,
     link: '[Location](<https://i.postimg.cc/wBNqsN5n/Church.png>)',
-    ping: '1403282423185281144'
+    ping: '1403407212646502463'
   },
   "Church Maple": {
     x: 2723,
@@ -293,7 +294,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Seers' Village tele > Diary Cape 5",
     prio: 1,
     link: '[Location](<https://i.postimg.cc/L5QKW4Bz/Seers.png>)',
-    ping: '1403282424103698444'
+    ping: '1403407212646502463'
   },
   "Flax": {
     x: 2758,
@@ -307,7 +308,8 @@ module.exports.PREDEFINEDLOCATIONS = {
     y: 3424,
     qt: "Kandarin Headgear 4 > Combat Bracelet 4",
     prio: 1,
-    link: '[Location](<https://i.postimg.cc/651tjcYD/Nmage.png>)'
+    link: '[Location](<https://i.postimg.cc/651tjcYD/Nmage.png>)',
+    ping: '1403407214106120293'
   },
   "Nseer": {
     x: 2729,
@@ -315,7 +317,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Seers' Village tele > Diary Cape 5",
     prio: 1,
     link: '[Location](<https://i.postimg.cc/htzgHmYh/Nseers.png>)',
-    ping: '1403282421239119973'
+    ping: '1403407212646502463'
   },
   "Nwseer": {
     x: 2702,
@@ -323,7 +325,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Seers' Village tele",
     prio: 1,
     link: '[Location](<https://i.postimg.cc/vZJMMBRh/Nwseers.png>)',
-    ping: '1403282422119923883'
+    ping: '1403407212646502463'
   },
   "Smage": {
     x: 2702,
@@ -368,7 +370,8 @@ module.exports.PREDEFINEDLOCATIONS = {
     y: 3566,
     qt: "Xeric's Talisman 2 > Con Cape 5",
     prio: 1,
-    link: '[Location](<https://i.postimg.cc/X7vnkmcf/Glade.png>)'
+    link: '[Location](<https://i.postimg.cc/X7vnkmcf/Glade.png>)',
+    ping: '1403407215959867514'
   },
   "N Glade": {
     x: 1755,
@@ -480,7 +483,8 @@ module.exports.PREDEFINEDLOCATIONS = {
     y: 2845,
     qt: "Myth Cape",
     prio: 1,
-    link: '[Location](<https://i.postimg.cc/brmpj98S/Myth.png>)'
+    link: '[Location](<https://i.postimg.cc/brmpj98S/Myth.png>)',
+    ping: '1403407217004380180'
   },
   "Yak": {
     x: 2322,
