@@ -1,3 +1,19 @@
+/*
+*  CHANGE ONLY ALL UPPER_CASE_ITEMS (double click to select), retaining all quotes ", apostrophes ', backticks `, parenthesis ( ), brackets [ ], squiggly brackets { }, and arrows < > 
+*  Delete link and ping entries if not needed for location, copy and paste into Object below. 
+ 
+  "LOCATION_NAME": {
+    x: X_COORD,
+    y: Y_COORD,
+    qt: `TELEPORT_INSTRUCTIONS`,
+    prio: PRIORITY_NUMBER,
+    link: '[Location](<DIRECT_LINK_TO_IMAGE_FILE>)',
+    ping: 'ROLE_ID_TO_PING'
+  },
+  
+*  ^ VIC: Very Important Comma - Ensure a comma separates the various locations
+*/
+
 module.exports.PREDEFINEDLOCATIONS = {
   "Gorge": {
     x: 1499,
@@ -739,8 +755,4 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Fairy ring AJP",
     prio: 4
   },
-  /*
-  Always Use Format:
-     "NAME": {x:x_coord, y:y_coord, z:0, qt:Quick_Tele, prio:1-4(where 1 is high priority)},
-  */
 }
