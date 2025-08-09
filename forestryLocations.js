@@ -229,7 +229,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 2938,
     y: 3231,
     qt: "Con Cape 2",
-    prio: 2
+    prio: 3
   },
   "Sarim": {
     x: 3060,
@@ -250,7 +250,8 @@ module.exports.PREDEFINEDLOCATIONS = {
     y: 3243,
     qt: "Glory 3 > Diary Cape G",
     prio: 1,
-    link: '[Location](<https://i.postimg.cc/4dbXWTS5/Draynor-Willows-Oaks.png>)'
+    link: '[Location](<https://i.postimg.cc/4dbXWTS5/Draynor-Willows-Oaks.png>)',
+    ping: '1403407218161881138'
   },
   "Dray East": {
     x: 3142,
@@ -274,19 +275,19 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 2774,
     y: 2699,
     qt: "Ape Atoll Dungeon tele",
-    prio: 2
+    prio: 3
   },
   "Ape w": {
     x: 2721,
     y: 2722,
     qt: "Ape Atoll Dungeon tele",
-    prio: 2
+    prio: 3
   },
   "Seer": {
     x: 2725,
     y: 3480,
     qt: "Seers' Village tele",
-    prio: 2,
+    prio: 3,
     link: '[Location](<https://i.postimg.cc/L5QKW4Bz/Seers.png>)',
     ping: '1403407212646502463'
   },
@@ -347,7 +348,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 2702,
     y: 3398,
     qt: "Kandarin Headgear 4",
-    prio: 1,
+    prio: 2,
     link: '[Location](<https://i.postimg.cc/BQZnwXs1/Smage.png>)'
   },
   "Sherlock": {
@@ -366,13 +367,13 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 2708,
     y: 3367,
     qt: "Quest Cape > Kandarin Headgear 4",
-    prio: 2
+    prio: 3
   },
   "Slegend": {
     x: 2733,
     y: 3334,
     qt: "Quest Cape > Fairy Ring BLR",
-    prio: 2
+    prio: 3
   },
   "Arceuus": {
     x: 1683,
@@ -425,7 +426,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1692,
     y: 3546,
     qt: "Spirit Tree A > Skills Necklace 5 NE",
-    prio: 2
+    prio: 3
   },
   "Botd3 (Shay)": {
     x: 1498,
@@ -492,7 +493,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1641,
     y: 3531,
     qt: "Skills Necklace 5 NW> Spirit Tree A",
-    prio: 2
+    prio: 3
   },
   "Myth": {
     x: 2444,
@@ -513,13 +514,13 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 2320,
     y: 3816,
     qt: "Enchanted Lyre(i) Neitiznot",
-    prio: 2
+    prio: 4
   },
   "Barb": {
     x: 2519,
     y: 3568,
     qt: "Games Necklace 5",
-    prio: 2
+    prio: 3
   },
   "Souls": {
     x: 2189,
@@ -573,19 +574,19 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 3676,
     y: 3446,
     qt: "Ectophial",
-    prio: 3
+    prio: 4
   },
   "Zanaris": {
     x: 2415,
     y: 4463,
     qt: "Fairy Ring-Zanaris / Fairy Ring BK",
-    prio: 3
+    prio: 4
   },
   "Uzer": {
     x: 3511,
     y: 3076,
     qt: "Fairy ring DLQ > Necklace of passage 3",
-    prio: 3
+    prio: 4
   },
   "Falo": {
     x: 2683,
@@ -597,7 +598,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1697,
     y: 2990,
     qt: "Fairy ring AJP east",
-    prio: 2
+    prio: 1
   },
   "CW east": {
     x: 2462,
@@ -609,13 +610,13 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1731,
     y: 3120,
     qt: "Quetzal Colosseum > Civitas illa Fortis teleport > Quetzal S Fortis Cothon",
-    prio: 2
+    prio: 3
   },
   "Fortis Pond E": {
     x: 1750,
     y: 3106,
     qt: "Quetzal Colosseum > Civitas illa Fortis teleport > Quetzal S Fortis Cothon",
-    prio: 2
+    prio: 3
   },
   "Nald Yew": {
     x: 1412,
@@ -675,12 +676,12 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1327,
     y: 3026,
     qt: "Quetzal (Kastori) > Pendant of Ates (5, Kastori) run sw",
-    prio: 3
+    prio: 2
   },
   "Kastori n": {
     x: 1328,
     y: 3065,
-    qt: "North of Quetzal (Kastori) > Pendant of Ates (5, Kastori) run sw",
+    qt: "North of Quetzal (Kastori) > Pendant of Ates (5, Kastori) run w",
     prio: 3
   },
   "Kastori w": {
@@ -755,4 +756,10 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Fairy ring AJP",
     prio: 4
   },
+  "Mos LeHarm": {
+    x: 3812,
+    y: 3059,
+    qt: "No teleports",
+    prio: 4
+  }, 
 }
