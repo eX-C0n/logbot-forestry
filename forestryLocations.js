@@ -45,11 +45,11 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Rellekka POH > Enchanted lyre 1",
     prio: 3
   },
-  "Sinclair Mansion": {
+  "Sinc/Sinclair Mansion": {
     x: 2720,
     y: 3551,
     qt: "Fairy ring CJR > Music cape",
-    prio: 2
+    prio: 3
   },
   "Catherby": {
     x: 2791,
@@ -94,16 +94,9 @@ module.exports.PREDEFINEDLOCATIONS = {
     prio: 1,
     link: '[Location](<https://i.postimg.cc/nLqxLJpJ/Pmage.png>)'
   },
-  "Pmahog": {
-    x: 3299,
-    y: 6130,
-    qt: "Spirit Tree 6",
-    prio: 1,
-    link: '[Location](<https://i.postimg.cc/9MpjGYDg/Pmahog.png>)'
-  },
   "Pteak": {
-    x: 3314,
-    y: 6119,
+    x: 3307,
+    y: 6125,
     qt: "Spirit Tree 6",
     prio: 1,
     link: '[Location](<https://i.postimg.cc/ZnJf4x0m/Pteak.png>)'
@@ -112,7 +105,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 3301,
     y: 6031,
     qt: "Eternal Teleport Crystal Prifddinas > Con Cape 9",
-    prio: 2
+    prio: 3
   },
   "Zalc": {
     x: 3291,
@@ -256,7 +249,7 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Dray East": {
     x: 3142,
     y: 3251,
-    qt: "Glory Dray east > Diary F east",
+    qt: "Glory Dray east > Diary G east",
     prio: 3
   },
   "Champ": {
@@ -305,14 +298,6 @@ module.exports.PREDEFINEDLOCATIONS = {
     link: '[Location](<https://i.postimg.cc/wBNqsN5n/Church.png>)',
     ping: '1403407212646502463'
   },
-  "Church Maple": {
-    x: 2723,
-    y: 3464,
-    qt: "Seers' Village tele > Diary Cape 5",
-    prio: 1,
-    link: '[Location](<https://i.postimg.cc/L5QKW4Bz/Seers.png>)',
-    ping: '1403407212646502463'
-  },
   "Flax": {
     x: 2758,
     y: 3431,
@@ -320,7 +305,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     prio: 2,
     link: '[Location](<https://i.postimg.cc/4yfsMSCT/Flax.png>)'
   },
-  "Nmage": {
+  "Nsorc/Nmage": {
     x: 2693,
     y: 3424,
     qt: "Kandarin Headgear 4 > Combat Bracelet 4",
@@ -344,12 +329,13 @@ module.exports.PREDEFINEDLOCATIONS = {
     link: '[Location](<https://i.postimg.cc/vZJMMBRh/Nwseers.png>)',
     ping: '1403407212646502463'
   },
-  "Smage": {
+  "Sorc/Smage": {
     x: 2702,
     y: 3398,
     qt: "Kandarin Headgear 4",
     prio: 2,
-    link: '[Location](<https://i.postimg.cc/BQZnwXs1/Smage.png>)'
+    link: '[Location](<https://i.postimg.cc/BQZnwXs1/Smage.png>)',
+    ping: '1403407214106120293'
   },
   "Sherlock": {
     x: 2734,
@@ -404,7 +390,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     prio: 2,
     link: '[Location](<https://i.postimg.cc/X7vnkmcf/Glade.png>)'
   },
-  "N Tithe Farm Willows": {
+  "N Tithe Farm Willow": {
     x: 1805,
     y: 3528,
     qt: "AKR Fairy Ring SW > Glade Xeric SE > Minigame Tele(slow)",
@@ -471,13 +457,13 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Rada Blessing Kourend Woodland",
     prio: 2
   },
-  "CIR W Mahogs": {
+  "CIR W Mahog": {
     x: 1230,
     y: 3767,
     qt: "CIR West > Skills Necklace 6",
     prio: 2
   },
-  "CIR W Maples": {
+  "CIR W Maple": {
     x: 1293,
     y: 3754,
     qt: "CIR fairy ring",
@@ -526,7 +512,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 2189,
     y: 2991,
     qt: "Fairy Ring BJP",
-    prio: 2
+    prio: 1
   },
   "Corsair": {
     x: 2475,
@@ -622,7 +608,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1412,
     y: 2993,
     qt: "Pendant of Ates > Aldarin POH > CKQ Fairy Ring",
-    prio: 2
+    prio: 3
   },
   "Nwald Magic": {
     x: 1323,
@@ -640,13 +626,13 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1412,
     y: 3366,
     qt: "Quetzal (Auburnvale) > Northwest of Fairy Ring - AIS, at the Quetz.",
-    prio: 3
+    prio: 2
   },
   "Vale e": {
     x: 1442,
     y: 3355,
     qt: "Quetzal (Auburnvale) run East > North of Fairy Ring - AIS",
-    prio: 3
+    prio: 2
   },
   "Vale n": {
     x: 1388,
@@ -670,7 +656,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1246,
     y: 3076,
     qt: "Quetzal (Tal Teklan) run East then South > Pendant of Ates (5, Kastori) run West",
-    prio: 3
+    prio: 2
   },
   "Kastori": {
     x: 1327,
@@ -700,7 +686,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1400,
     y: 3305,
     qt: "Southwest of Fairy Ring - AIS > Pendant of Ates (6,Nemus) run East across bridge",
-    prio: 3
+    prio: 2
   },
   "Nemus": {
     x: 1371,
@@ -736,19 +722,19 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1398,
     y: 3170,
     qt: "Quetzal (Cam Torum) run South off mountain then far Northwest",
-    prio: 3
+    prio: 4
   },
   "Nemus e": {
     x: 1390,
     y: 3305,
     qt: "Pendant of Ates (6, Nemus Retreat) run East > Fairy ring - AIS run Southwest across bridge",
-    prio: 3
+    prio: 2
   },
   "Nemus sw": {
     x: 1349,
     y: 3280,
     qt: "Pendant of Ates (6, Nemus Retreat) > Quetzal (Gorge) follow western Mountain Guide then run South",
-    prio: 3
+    prio: 2
   },
   "AJP": {
     x: 1647,
