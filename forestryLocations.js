@@ -686,13 +686,15 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1400,
     y: 3305,
     qt: "Southwest of Fairy Ring - AIS > Pendant of Ates (6,Nemus) run East across bridge",
-    prio: 2
+    prio: 2,
+    ping: '1404937699210563779'
   },
   "Nemus": {
     x: 1371,
     y: 3308,
     qt: "Pendant of Ates (6, Nemus Retreat) run North > Quetzal (Quetzacalli Gorge), follow Western Mountain Guide > West of Fairy Ring - AIS",
-    prio: 1
+    prio: 1,
+    ping: '1404937699210563779'
   },
   "Nemus nw": {
     x: 1337,
@@ -704,7 +706,8 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1383,
     y: 3274,
     qt: "Pendant of Ates (6, Nemus Retreat) > Southwest of Fairy Ring - AIS > Quetzal (Quetzacalli Gorge), follow Western Mountain Guide then run South",
-    prio: 1
+    prio: 1,
+    ping: '1404937699210563779'
   },
   "Tlati ne": {
     x: 1365,
@@ -728,13 +731,15 @@ module.exports.PREDEFINEDLOCATIONS = {
     x: 1390,
     y: 3305,
     qt: "Pendant of Ates (6, Nemus Retreat) run East > Fairy ring - AIS run Southwest across bridge",
-    prio: 2
+    prio: 2,
+    ping: '1404937699210563779'
   },
   "Nemus sw": {
     x: 1349,
     y: 3280,
     qt: "Pendant of Ates (6, Nemus Retreat) > Quetzal (Gorge) follow western Mountain Guide then run South",
-    prio: 2
+    prio: 2,
+    ping: '1404937699210563779'
   },
   "AJP": {
     x: 1647,
