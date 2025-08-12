@@ -2,7 +2,7 @@
  *  Add Role Data from !clrbm output here - verbatim
  */
 
-module.exports.locationPings = {
+module.exports.pingData= {
   seersvillage: "1403407212646502463",
   nmage: "1403407214106120293",
   glade: "1403407215959867514",
