@@ -12,7 +12,7 @@
  */
 
 module.exports.COMBINEDLOCATIONS = {
-  "Dray (+Oak)1": ["Dray1", "Dray oak1"],
+  "Dray1": ["Dray1", "Dray oak1"],
   "Seer (N+NW)1": ["Nwseer1", "Nseer1"],
   "MTA (E+W)2": ["Mta e2", "Mta w2"],
   "Heart (+E)2": ["Heart2","Heart E/Kingstown2"],
