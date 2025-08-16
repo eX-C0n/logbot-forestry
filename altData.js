@@ -1,4 +1,5 @@
 module.exports.altArray = [
+        {main: `AGC eXec`, alts: [`AGC feX`, "Log Hunters"]},
         {main: `aikuinen`, alts: [`tylleroxyeet`]},
         {main: `Albatrossse`, alts: [`hello bigboi`]},
         {main: `BB Shrek`, alts: [`BB Plover`]},
