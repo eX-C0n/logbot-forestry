@@ -305,13 +305,13 @@ module.exports.PREDEFINEDLOCATIONS = {
     prio: 2,
     link: '[Location](<https://i.postimg.cc/4yfsMSCT/Flax.png>)'
   },
-  "Nsorc/Nmage": {
+  "Nsorc": {
     x: 2693,
     y: 3424,
     qt: "Kandarin Headgear 4 > Combat Bracelet 4",
     prio: 1,
     link: '[Location](<https://i.postimg.cc/651tjcYD/Nmage.png>)',
-    ping: '1403407214106120293'
+    ping: '1408816844290261142'
   },
   "Nseer": {
     x: 2729,
@@ -329,7 +329,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     link: '[Location](<https://i.postimg.cc/vZJMMBRh/Nwseers.png>)',
     ping: '1403407212646502463'
   },
-  "Sorc/Smage": {
+  "Sorc": {
     x: 2702,
     y: 3398,
     qt: "Kandarin Headgear 4",
@@ -508,7 +508,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Games Necklace 5",
     prio: 3
   },
-  "Souls": {
+  "Souls/BJP w": {
     x: 2189,
     y: 2991,
     qt: "Fairy Ring BJP",
@@ -538,7 +538,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Fairy Ring AKQ",
     prio: 3
   },
-  "Cw": {
+  "BKP w": {
     x: 2335,
     y: 3047,
     qt: "Fairy Ring BKP",
@@ -580,7 +580,7 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "Music cape > Seers north",
     prio: 3
   },
-  "Oasis": {
+  "Oasis/AJP e": {
     x: 1697,
     y: 2990,
     qt: "Fairy ring AJP east",
