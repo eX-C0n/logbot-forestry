@@ -16,6 +16,7 @@ module.exports.altArray = [
         {main: `HCpotatolegs`, alts: [`Potatolegs`, `matharamadev`, `GIMPot`, `k1dnam3dcud1`]},
         {main: `Jurrie`, alts: [`Jurphaas`]},
         {main: `Killerjj1196`, alts:[`IronJJ1196`]},
+        {main: `KittyPuray`, alts:[`24broddi1093`]},
         {main: `Knightromite`, alts: [`Tiny nite`,`Knightrolite`,`Helping Nite`,`Helpinhands`,`inmy defense`]},
         {main: `kreeq`, alts: [`kreeq alt 1`,`kreeq alt 2`,`kreeq alt 3`,`kreeq alt 4`,`kreeq alt 5`,`kreeq alt 6`,`kreeq alt 7`,`kreeq alt 8`,`kreeq alt 9`]},
         {main: `MableLake`, alts: [`LoadedSwing`,`Creedle`,`FinalBossCEO`]},
