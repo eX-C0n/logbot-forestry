@@ -90,7 +90,7 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Pmage": {
     x: 3232,
     y: 6099,
-    qt: "Con Cape 9",
+    qt: "Con Cape A",
     prio: 1,
     link: '[Location](<https://i.postimg.cc/nLqxLJpJ/Pmage.png>)'
   },
