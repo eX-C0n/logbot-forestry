@@ -104,13 +104,13 @@ module.exports.PREDEFINEDLOCATIONS = {
   "Se prif": {
     x: 3301,
     y: 6031,
-    qt: "Eternal Teleport Crystal Prifddinas > Con Cape 9",
+    qt: "Eternal Teleport Crystal Prifddinas > Con Cape A",
     prio: 3
   },
   "Zalc": {
     x: 3291,
     y: 6065,
-    qt: "Eternal Teleport Crystal Prifddinas > Con Cape 9",
+    qt: "Eternal Teleport Crystal Prifddinas > Con Cape A",
     prio: 1,
     link: '[Location](<https://i.postimg.cc/PfQq4mGj/Zalc.png>)'
   },
