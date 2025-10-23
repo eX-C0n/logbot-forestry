@@ -2,6 +2,7 @@ module.exports.altArray = [
         {main: `AGC eXec`, alts: [`AGC feX`, "Log Hunters", "Test RSN68"]},
         {main: `aikuinen`, alts: [`tylleroxyeet`]},
         {main: `Albatrossse`, alts: [`hello bigboi`]},
+        {main: `Bagelboiiiii`, alts: [`StaleBageI`]},
         {main: `BB Shrek`, alts: [`BB Plover`]},
         {main: `BB8`, alts: [`Crandor Dock`,`Arenys`,`nr-n99`]},
         {main: `BassMusic`, alts: [`Forestry CC`,`ForestryCC`]},
