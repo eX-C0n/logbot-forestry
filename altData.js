@@ -14,6 +14,7 @@ module.exports.altArray = [
         {main: `Evequill`, alts: [`Mxmmy Quill`,`Pinkeaux`,`Peacequill`,`Hikikomrxism`,`Group Quill`]}, 
         {main: `FoxyBaphomet`, alts: [`RNGeesus`, `Unclothed`, `SlootLoops`,`Razzmatazz`]},
         {main: `GamSlav`, alts: [`GamSlav Jr`,`G a m`, `Ga m`, `KrabSlayer69`, `c ra b`,`Live4Ever`]},
+        {main: `God Eggs`, alts: [`Entlings`,`Noobalicious`]},
         {main: `HCpotatolegs`, alts: [`Potatolegs`, `matharamadev`, `GIMPot`, `k1dnam3dcud1`]},
         {main: `Jurrie`, alts: [`Jurphaas`]},
         {main: `Killerjj1196`, alts:[`IronJJ1196`]},
