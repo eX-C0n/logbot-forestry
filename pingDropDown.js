@@ -5,4 +5,8 @@ module.exports.locationDropDown = [
   { label: 'Notify me for Myth', value: 'myth' },
   { label: 'Notify me for Draynor', value: 'draynor' },
   { label: 'Notify me for Nemus', value: 'nemus' },
+  { label: 'Notify me for Sunbleak', value: 'sunbleak' },
+  { label: 'Notify me for Drumstick Isle', value: 'drumstick' },
+  { label: 'Notify me for N Conch', value: 'nconch' },
+  { label: 'Notify me for SW Conch', value: 'swconch' },
 ]
