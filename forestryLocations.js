@@ -753,4 +753,36 @@ module.exports.PREDEFINEDLOCATIONS = {
     qt: "No teleports",
     prio: 4
   }, 
+ "SB": {
+    x: 2206,
+    y: 2320,
+    qt: "Tele to Boat (w/ Greater Teleport) docked at Sunbleak",
+    prio: 2,,
+    link: '[Location](<https://i.postimg.cc/HnQXPLZG/sb.jpg>)',
+    ping: '1533690621523529820'
+  }, 
+ "Drum": {
+    x: 2146,
+    y: 3548,
+    qt: "Tele to Boat (w/ Greater Teleport) docked at Drumstick",
+    prio: 2,,
+    link: '[Location](<https://i.postimg.cc/rsSxYphv/dum.jpg>)',
+    ping: '1533690622735683756'
+  }, 
+ "NConch": {
+    x: 3200,
+    y: 2479,
+    qt: "Fairy CJQ / Charter ship to Summer Shore / Tele to boat docked at Summer Shore",
+    prio: 2,,
+    link: '[Location](<https://i.postimg.cc/Fzj3nKPw/nconch.jpg>)',
+    ping: '1533690623511494806'
+  }, 
+ "SW Conch": {
+    x: 3110,
+    y: 2412,
+    qt: "Fairy CJQ -> use shortcut -> run south-west / Charter ship to Summer Shore / Tele to boat (w/Greater Teleport) docked at Summer Shore",
+    prio: 2,,
+    link: '[Location](<https://i.postimg.cc/0jpDHNtT/swconch.jpg>)',
+    ping: '1533690624270798931'
+  }, 
 }
